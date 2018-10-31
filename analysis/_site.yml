@@ -5,13 +5,16 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "Origen de datos"
+      href: 10.html
     - text: "About"
       href: about.html
     - text: "License"
       href: license.html
   right:
     - icon: fa-github
-      href: https://github.com/jdblischak/workflowr
+      href: https://github.com/charo1999/ensamblar
+
 output:
   workflowr::wflow_html:
     toc: true
