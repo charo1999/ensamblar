@@ -11,6 +11,9 @@ navbar:
       href: about.html
     - text: "License"
       href: license.html
+    - text: "Resultados""
+      href: Resultados.html
+      icon: fa-calculator
   right:
     - icon: fa-github
       href: https://github.com/charo1999/ensamblar
